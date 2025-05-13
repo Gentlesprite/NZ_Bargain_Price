@@ -1,0 +1,9 @@
+# ignore folders
+.idea/
+__pycache__/
+# ignore files
+*.log
+*.txt
+test.py
+# include files
+!requirements.txt
