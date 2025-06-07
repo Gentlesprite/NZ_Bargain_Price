@@ -1,9 +1,11 @@
 # ignore folders
 .idea/
 __pycache__/
+venv/
 # ignore files
 *.log
 *.txt
+*.swp
 test.py
 # include files
 !requirements.txt
